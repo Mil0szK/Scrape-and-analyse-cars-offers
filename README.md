@@ -1,6 +1,6 @@
 # Cars offers analysis
 This project is a Python-based application that uses webscraping to get the data about cars offers in Poland
-from the otomoto.pl website. The data is then stored in a SQLite database and can be accessed through a Telegram bot.
+from the otomoto.pl website. The data is then stored in a SQLite database.
 Then the data is visualized in a variety of ways, and model for predicting the price of a car is created.
 That data is then saved to Word document.
 
