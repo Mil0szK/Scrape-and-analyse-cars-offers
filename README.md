@@ -18,10 +18,6 @@ That data is then saved to Word document.
 2. Install the required dependencies with `pip install -r requirements.txt`.
 3. Run the main script with `python cars_analysis.py`.
 
-## Testing
-
-Tests are located in the `tests.py` file. Run them with `python -m unittest tests.py`.
-
 ## Contributing
 
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
